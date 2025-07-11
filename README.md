@@ -103,7 +103,7 @@ Last Edited on: 03/09/2024
 
 ## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oussamaelmessaoudi&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
 
 <br>
 </details>
