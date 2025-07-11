@@ -10,8 +10,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Oussama ELMESSAOUDI, a freshly graduated Computer Engineer from ESPRIT in Tunisia 💻, with over one year of experience as a Full Stack Web Engineer and Web Trainer, I'm 23 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
-I am completely passionate about frontend backend development .
+I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and Embedded Systems 🤖👨🏻‍💻, with a deep passion for building intuitive and impactful tech solutions. I thrive in web development (both frontend and backend), mobile development, UI/UX design, and embedded systems. From elegant interfaces to robust system architectures, I enjoy the entire development journey—from pixels to protocols. I'm always eager to learn, collaborate, and bring ideas to life through code and design. Let's build something great together!
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
