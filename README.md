@@ -80,9 +80,9 @@ I am completely passionate about frontend backend development .
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
+Credit: [Oussama ELMESSAOUDI](https://github.com/oussamaelmessaoudi) 
 
-Last Edited on: 03/09/2024
+Last Edited on: 11/07/2025
 <details> 
   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
