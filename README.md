@@ -16,8 +16,7 @@ I am completely passionate about frontend backend development .
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
+[![Linkedin Badge](https://img.shields.io/badge/-oussamaelmessaoudi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-elmessaoudi/) 
 [![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
 [![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
 
