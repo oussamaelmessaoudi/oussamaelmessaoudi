@@ -91,10 +91,10 @@ Last Edited on: 03/09/2024
             <p align="center">
       </p>
         <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          <a href="https://github.com/oussamaelmessaoudi/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oussamaelmessaoudi&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oussamaelmessaoudi&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
