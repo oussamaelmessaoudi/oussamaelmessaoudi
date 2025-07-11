@@ -16,9 +16,9 @@ I am completely passionate about frontend backend development .
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Linkedin Badge](https://img.shields.io/badge/-oussamaelmessaoudi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-elmessaoudi/) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-OussamaELMESSAOUDI-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-elmessaoudi/) 
+[![Mail Badge](https://img.shields.io/badge/-@UsamaMse-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/usamamse/)
+[![Mail Badge](https://img.shields.io/badge/-OussamaELMESSAOUDI-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oussamaelmessaoudi7@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
