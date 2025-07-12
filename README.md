@@ -48,6 +48,13 @@ I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and E
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
 ![Assembly](https://img.shields.io/badge/-Assembly-555555?style=for-the-badge&labelColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![VHDL](https://img.shields.io/badge/-VHDL-452476?style=for-the-badge&labelColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&labelColor=black)
+
 
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
