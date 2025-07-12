@@ -46,6 +46,7 @@ I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and E
 <!-- TODO: Make technologies links takes you to repositories -->
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
 
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
