@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hey , I'm Oussama ELMESSAOUDI </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It%27s+Oussama+ELMESSAOUDI..+%E2%99%A5+Full+Stack+Web+Developer,+Mobile+Developer,+Embedded+Systems+Enthusiast,+Love+to+learn+new+stuffs..<3" />
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Oussama+ELMESSAOUDI..&hearts;++;Full+Stack+Web+Developer,;Embedded+Systems+Enthusiast;,;Love+to+learn+new+stuffs..<3"></a>
 
 </p>
 
