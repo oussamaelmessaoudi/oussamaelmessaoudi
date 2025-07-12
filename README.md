@@ -52,6 +52,7 @@ I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and E
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=CC2927)
 ![VHDL](https://img.shields.io/badge/-VHDL-452476?style=for-the-badge&labelColor=black)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&labelColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)
