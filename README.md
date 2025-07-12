@@ -55,6 +55,9 @@ I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and E
 ![VHDL](https://img.shields.io/badge/-VHDL-452476?style=for-the-badge&labelColor=black)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&labelColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&labelColor=black&logo=raspberry-pi&logoColor=C51A4A)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-1E90FF?style=for-the-badge&labelColor=black&logo=platformio&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
