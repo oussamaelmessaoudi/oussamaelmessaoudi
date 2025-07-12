@@ -54,14 +54,12 @@ I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and E
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FFFFFF)  
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)  
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&labelColor=black&logo=chartdotjs&logoColor=FF6384)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)
-
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)  
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&labelColor=black&logo=raspberry-pi&logoColor=C51A4A)  
 ![PlatformIO](https://img.shields.io/badge/-PlatformIO-1E90FF?style=for-the-badge&labelColor=black&logo=platformio&logoColor=white)  
@@ -70,11 +68,9 @@ I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and E
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)  
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
-
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=FF9900)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)
-
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)  
 
 <!-- Github Stats   -->
