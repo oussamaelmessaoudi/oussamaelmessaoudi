@@ -16,7 +16,7 @@ I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and E
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Linkedin Badge](https://img.shields.io/badge/-OussamaELMESSAOUDI-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-elmessaoudi/) 
+[![Linkedin Badge](https://img.shields.io/badge/-OussamaELMESSAOUDI-0e76a8?style=flat&labelColor=0e76a8&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/usama-elmessaoudi/) 
 [![Mail Badge](https://img.shields.io/badge/-@UsamaMse-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/usamamse/)
 [![Mail Badge](https://img.shields.io/badge/-OussamaELMESSAOUDI-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oussamaelmessaoudi7@gmail.com)
 [![HakerRank Badge](https://img.shields.io/badge/-MyHackerRank-2EC866?style=flat&labelColor=2EC866&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/oussamaelmessao1)
