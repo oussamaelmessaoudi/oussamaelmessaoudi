@@ -5,7 +5,7 @@
 </p>
 
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Oussama.png"  width="400px" alt="hi" >
+
 
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
