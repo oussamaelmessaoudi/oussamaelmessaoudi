@@ -41,10 +41,15 @@
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaelmessaoudi&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=oussamaelmessaoudi&show_icons=true&theme=radical)
+<div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=oussamaelmessaoudi&theme=react)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaelmessaoudi&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)  
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=oussamaelmessaoudi&show_icons=true&theme=radical)  
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=oussamaelmessaoudi&theme=react)  
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
