@@ -47,10 +47,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaelmessaoudi&layout=compact&theme=algolia&exclude_repo=&hide=plsql) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=oussamaelmessaoudi&show_icons=true&theme=radical)  
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=oussamaelmessaoudi&theme=react)  
