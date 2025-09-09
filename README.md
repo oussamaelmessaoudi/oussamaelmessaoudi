@@ -43,7 +43,10 @@
 
 <div align="center">
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaelmessaoudi&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia&per_repo=true)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=oussamaelmessaoudi&show_icons=true&theme=radical)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=oussamaelmessaoudi&show_icons=true&theme=radical)  
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=oussamaelmessaoudi&theme=react)  
 
