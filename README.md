@@ -14,6 +14,13 @@
 
 ---
 
+## 🌍 Connect with Me
+- 📫 Email: **[oussamaelmessaoudi17@gmail.com](mailto:oussamaelmessaoudi17@gmail.com)**  
+- 💼 LinkedIn: [linkedin.com/in/usama-elmessaoudi](https://linkedin.com/in/usama-elmessaoudi)  
+- 📝 LeetCode: [leetcode.com/u/oussamaelmessaoudi/](https://leetcode.com/u/oussamaelmessaoudi/)  
+- 🧩 HackerRank: [hackerrank.com/profile/oussamaelmessao1](https://hackerrank.com/profile/oussamaelmessao1)  
+- 📸 Instagram: [instagram.com/usamamse](https://instagram.com/usamamse)  
+
 ## 🛠 Tech Stack
 
 **Backend**  
@@ -74,11 +81,3 @@ Last Edited on: 11/07/2025
 
 <br>
 </details>
-
-
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
